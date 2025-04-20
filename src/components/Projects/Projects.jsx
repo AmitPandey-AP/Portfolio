@@ -11,7 +11,7 @@ function Projects() {
           <h1 className="text-xl font-extrabold justify-self-center underline">
             <a
               target="_blank"
-              href="https://github.com/AmitPandey-AP/Grow-Carry"
+              href="https://github.com/AmitPandey-AP/GrowwCarry"
             >
               Grow-Carry
             </a>
