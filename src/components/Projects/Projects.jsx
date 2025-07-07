@@ -11,6 +11,35 @@ function Projects() {
           <h1 className="text-xl font-extrabold justify-self-center underline">
             <a
               target="_blank"
+              href="https://github.com/AmitPandey-AP/InvoiceGen"
+            >
+              InvoiceGen
+            </a>
+          </h1>
+          <div className="px-10 py-5">
+            <ul className="list-disc text-lg">
+              <li className="font-bold ">
+                <span className="text-xl font-extrabold"> Tech Stack:</span>{" "}
+                SpringBoot, MongoDB, JWT, Clerk, React
+              </li>
+              <br />
+              <li>
+                Built a full-stack Invoice Generator application using Spring
+                Boot and React, enabling users to create, view, and delete
+                professional invoices with real-time UI updates.
+              </li>
+              <li>
+                Enhanced user experience with PDF invoice downloads, Send to
+                Email, toast notifications, and mobileresponsive design using
+                Bootstrap CSS and React Hooks
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div className="max-h-auto font-mono block mt-10 ">
+          <h1 className="text-xl font-extrabold justify-self-center underline">
+            <a
+              target="_blank"
               href="https://github.com/AmitPandey-AP/Grow-Carry"
             >
               Grow-Carry

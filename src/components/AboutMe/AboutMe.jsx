@@ -30,11 +30,7 @@ function AboutMe() {
     <div className="h-full w-full py-4 px-3">
       <div className=" flex gap-2">
         <div className="w-[30%] max-h-auto mr-8 px-2 py-4 shadow-2xl">
-          <img
-            src="/icpc.jpg"
-            alt=""
-            className="rounded-4xl"
-          />
+          <img src="/icpc.jpg" alt="" className="rounded-4xl" />
           <h1 className="font-semibold font-mono">Amit Pandey</h1>
           <p className="font-mono font-black">
             Software Developer / <br />
@@ -53,15 +49,15 @@ function AboutMe() {
             Javascript and ReactJs; I am a Competitive Programming enthusiast,
             and love to solve problems using various Data Structures and
             Algorithms. Some of my achievements in the field of Competitive
-            Programming are: <br /> <br /> • {cfTag} on Codeforces (Highest Rating :
-            {cfRating});
+            Programming are: <br /> <br /> • {cfTag} on Codeforces (Highest
+            Rating :{cfRating});
             <br />
-            • Knight on LeetCode (Highest Rating : 2100); <br /> • {codechefTag +" "}
-            on CodeChef (Highest Rating : {codechefRating}); <br />• 6 Kyu on
-            AtCoder (Highest Rating : 869); <br /> • Meta Hacker Cup 2023 : 5546
-            Rank , out of 20000+ total participants. <br /> <br />I am looking
-            forward to gaining internship experience in Software Development
-            Engineering related roles. Reach me on <br /> <br />
+            • Knight on LeetCode (Highest Rating : 2100); <br /> • {4 + "⭐"}
+            on CodeChef (Highest Rating : {1894}); <br />• 6 Kyu on AtCoder
+            (Highest Rating : 869); <br /> • Meta Hacker Cup 2023 : 5546 Rank ,
+            out of 20000+ total participants. <br /> <br />I am looking forward
+            to gaining internship experience in Software Development Engineering
+            related roles. Reach me on <br /> <br />
             pandeyamit5969@gmail.com
           </p>
         </div>
